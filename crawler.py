@@ -40,7 +40,7 @@ class App:
         self.advantage = advantage
         
     def __str__(self):
-        return ("name:" + self.name + "developper:" + self.developper + "price :" + self.price)
+        return ("name: " + self.name + "developper: " + self.developper + "price : " + self.price)
     
 crawler = AppCrawler('https://bourses-etudes.net/bourses-university-of-hertfordshire-royaume-uni-2021/', 0) 
 

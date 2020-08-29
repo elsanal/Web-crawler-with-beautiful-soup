@@ -68,13 +68,13 @@ class App:
     def __str__(self):
         return ("\n\nname: " + self.name + "\ncountry : " + self.country + "\nyear : " + self.year +"\nlevel : " + self.level + "deadline : " + 
                 self.deadline + "\nadvantage : " + self.advantage + "\nofficial link : " + self.link_official 
-                + "\napply link : " + self.link_apply + "\n")
+                + "\napply link : " + self.link_apply + "\ndescription: " + self.description + "\n")
     
 crawler = AppCrawler('https://bourses-etudes.net/bourse-africa-leadership-fund-scholarship-france-2021/', 1) 
 
 crawler.crawl()   
 
-newScho = open("scholarship_list.txt","w")
+newScho = open("scholarship_list.docx","w")
 
 for app in crawler.apps:
     newScho.write(str(app))

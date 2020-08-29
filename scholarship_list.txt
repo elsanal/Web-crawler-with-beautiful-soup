@@ -1,0 +1,99 @@
+
+
+name: Nom de la bourse : Africa Leadership Fund Scholarship
+country : Pays : France
+year : Année de la bourse : 2021
+level : Niveau d'étude : Masterdeadline : Date limite pour Postuler : 10 août 2021
+advantage : Montant de la Bourse : 50.000 €
+official link : https://www.insead.edu/master-programmes/mba/scholarships/africa-leadership-fund-scholarship
+apply link : https://www.insead.edu/master-programmes/mba/apply
+
+
+name: Nom de la bourse : Bourse AIST FOUNDATION Université Laval
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Licence, Masterdeadline : Date limite pour Postuler : 31 octobre 2020
+advantage : Montant de la Bourse : Jusqu'à 12.000$
+official link : https://www.ulaval.ca
+apply link : https://repertoire.bbaf.ulaval.ca/bourse/55602/bourse-aist-foundation-automne-2020?keywordsSearch=false&keyWords=&onlyUlBursaries=false&admissionBursary=false&legalStatusCode=2&cycle=&faculty=&start-search=true&lessResults=false&start-search=Appliquer
+
+
+name: Nom de la bourse : Bourse d'excellence au doctorat Université du Québec
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Doctoratdeadline : Date limite pour Postuler : 16 octobre 2020
+advantage : Montant de la Bourse : 5000$
+official link : https://uqam.ca
+apply link : https://www.apps.uqam.ca/Application/Bourses/Bourses/DetailBourse.aspx?brs_id_bourse=7755&BC001_BCAdresse=/Application/bourses/Bourses/RechercheBourse.aspx&BC001_BCLibelle=Recherche+de+bourses&BC001_BCStyle=chemin2&__UL__=500391494452&__CS__=4sJposImwwneEaTfpr%2bG%2fw__
+
+
+name: Nom de la bourse : Bourses Mitacs Globalink Université du Québec Canada
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Doctoratdeadline : Date limite pour Postuler : 11 octobre 2020
+advantage : Montant de la Bourse : 6000$
+official link : https://uqam.ca
+apply link : https://www.apps.uqam.ca/Application/Bourses/Bourses/DetailBourse.aspx?brs_id_bourse=6170&BC001_BCAdresse=/Application/bourses/Bourses/RechercheBourse.aspx&BC001_BCLibelle=Recherche+de+bourses&BC001_BCStyle=chemin2&__UL__=500391494452&__CS__=AQVjpNrZ6N4ueTsCxni3tvpoiJXSzL%2b6
+
+
+name: Nom de la bourse : Bourses Elizabeth Greenshields Université du Québec
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Licencedeadline : Date limite pour Postuler : 11 octobre 2020
+advantage : Montant de la Bourse : 18.000$
+official link : https://uqam.ca
+apply link : https://www.apps.uqam.ca/Application/Bourses/Bourses/DetailBourse.aspx?brs_id_bourse=6940&BC001_BCAdresse=/Application/bourses/Bourses/RechercheBourse.aspx&BC001_BCLibelle=Recherche+de+bourses&BC001_BCStyle=chemin2&__UL__=500391494452&__CS__=mUwvMr2tXDpKiCVEDknqww__
+
+
+name: Nom de la bourse : Bourse Fonds scientifique AéESG Université du Québec
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Licence, Master, Doctoratdeadline : Date limite pour Postuler : 10 octobre 2020
+advantage : Montant de la Bourse : 500$
+official link : https://uqam.ca
+apply link : https://www.apps.uqam.ca/Application/Bourses/Bourses/DetailBourse.aspx?brs_id_bourse=7473&BC001_BCAdresse=/Application/bourses/Bourses/RechercheBourse.aspx&BC001_BCLibelle=Recherche+de+bourses&BC001_BCStyle=chemin2&__UL__=500391494452&__CS__=Pbj3vuBbjorgv3I451i61Q__
+
+
+name: Nom de la bourse : Bourse Undergraduate Program Université de York
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Licencedeadline : Date limite pour Postuler : 15 octobre 2020
+advantage : Montant de la Bourse : 35000$
+official link : https://www.yorku.ca/index.html
+apply link : https://sfs.yorku.ca/scholarships/award-search?awardID=0968
+
+
+name: Nom de la bourse : Bourse Undergraduate Program Université MacEwan
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Licencedeadline : Date limite pour Postuler : 1 octobre 2020
+advantage : Montant de la Bourse : Jusqu'à 14.000$
+official link : https://www.macewan.ca/wcm/index.htm
+apply link : https://www.macewan.ca/wcm/Registrar/FeesandFinancialInformation/ScholarshipsAwardsBursaries/Awards/SAB_923000001006
+
+
+name: Nom de la bourse : Undergraduate Program Université Regina
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Licencedeadline : Date limite pour Postuler : 1 septembre 2020
+advantage : Montant de la Bourse : Jusqu'à 200.000$
+official link : https://www.uregina.ca/
+apply link : https://www.uregina.ca/international/future-students/scholarship/index.html
+
+
+name: Nom de la bourse : Bourse exonération des droits majorés Université du Québec
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Doctoratdeadline : Date limite pour Postuler : 20 septembre 2020
+advantage : Montant de la Bourse : 12.000$
+official link : https://uqam.ca
+apply link : https://www.apps.uqam.ca/Application/Bourses/Bourses/DetailBourse.aspx?brs_id_bourse=4680&BC001_BCAdresse=/Application/bourses/Bourses/RechercheBourse.aspx&BC001_BCLibelle=Recherche+de+bourses&BC001_BCStyle=chemin2&__UL__=500391494452&__CS__=rsEOK9jo%2fhCm2zsw9habcA__
+
+
+name: Nom de la bourse : Bourses Schwarzman Université du Québec
+country : Pays : Canada
+year : Année de la bourse : 2020
+level : Niveau d'étude : Masterdeadline : Date limite pour Postuler : 22 septembre 2020
+advantage : Montant de la Bourse : Non mentionnée
+official link : http://www.uqam.ca
+apply link : https://www.apps.uqam.ca/Application/Bourses/Bourses/DetailBourse.aspx?brs_id_bourse=7741&BC001_BCAdresse=/Application/bourses/Bourses/RechercheBourse.aspx&BC001_BCLibelle=Recherche+de+bourses&BC001_BCStyle=chemin2&__UL__=500391494452&__CS__=AQVjpNrZ6N4bDmNfF5e%2bNN5Kqxs3BTH1
